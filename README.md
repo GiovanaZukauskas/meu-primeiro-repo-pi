@@ -2,3 +2,5 @@
 Meu primeiro repositório na aula de pi
 
 Alterando o repositório remotamente
+
+Alterando o respositório localmente
